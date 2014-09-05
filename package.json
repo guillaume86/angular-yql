@@ -1,0 +1,27 @@
+{
+  "name": "angular-yql",
+  "version": "0.0.0",
+  "description": "0.0.1",
+  "main": "./dist/angular-yql.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/guillaume86/angular-yql"
+  },
+  "keywords": [
+    "angular",
+    "yql"
+  ],
+  "author": "Guillaume Lecomte <=>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guillaume86/angular-yql/issues"
+  },
+  "homepage": "https://github.com/guillaume86/angular-yql",
+  "devDependencies": {
+    "gulp-coffee": "^2.2.0",
+    "gulp": "^3.8.7"
+  }
+}
