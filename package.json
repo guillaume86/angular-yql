@@ -14,7 +14,7 @@
     "angular",
     "yql"
   ],
-  "author": "Guillaume Lecomte <=>",
+  "author": "Guillaume Lecomte <guillaume86@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/guillaume86/angular-yql/issues"

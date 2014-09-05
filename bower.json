@@ -1,0 +1,25 @@
+{
+  "name": "angular-yql",
+  "version": "0.0.1",
+  "homepage": "https://github.com/guillaume86/angular-yql",
+  "authors": [
+    "Guillaume Lecomte <guillaume86@gmail.com>"
+  ],
+  "description": "yql $http interceptor for angular (ajax proxy)",
+  "main": "./dist/angular-yql.js",
+  "keywords": [
+    "angular",
+    "yql",
+    "ajax",
+    "proxy",
+    "interceptor"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
